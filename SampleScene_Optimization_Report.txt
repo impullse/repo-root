@@ -1,0 +1,60 @@
+﻿UNITY SCENE OPTIMIZATION REPORT
+================================
+
+Scene: SampleScene
+Optimization Score: 97/100
+
+SCENE
+GameObjects: 26
+Active Objects: 26
+Inactive Objects: 0
+Static Objects: 0
+
+GEOMETRY
+Mesh Renderers: 5
+Skinned Mesh Renderers: 0
+Vertices: 611
+Triangles: 816
+Sub Meshes: 5
+
+MATERIALS / TEXTURES
+Materials: 5
+Unique Materials: 1
+Textures: 0
+Estimated Texture Memory: 0 B
+Textures > 2K: 0
+Textures > 4K: 0
+
+LIGHTING
+Lights: 5
+Realtime Lights: 4
+Mixed Lights: 1
+Baked Lights: 0
+Shadow Casting Lights: 1
+
+PHYSICS
+Rigidbody: 0
+Colliders: 5
+Particle Systems: 0
+Audio Sources: 0
+
+UI
+Canvas: 1
+UI Graphics: 1
+
+SCRIPTS
+MonoBehaviours: 4
+Missing Scripts: 0
+
+HIERARCHY
+Maximum Depth: 11
+Deep Hierarchy Objects: 4
+
+PROBLEMS
+
+RECOMMENDATIONS
+
+POSITIVE
++ Missing Scripts не знайдено.
++ Геометричне навантаження перебуває в прийнятному діапазоні.
++ Сценарій не має очевидних проблем за встановленими евристиками.
